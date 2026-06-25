@@ -141,11 +141,11 @@ My goal is to build intelligent software systems that seamlessly integrate **Art
 
 📧 **Email:** nallamillipurnima@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN
+💼 **LinkedIn:** https://www.linkedin.com/in/purnima-nallamilli-175853292
 
 💻 **GitHub:** https://github.com/Purnima-nallamilli
 
-🧩 **LeetCode:** https://leetcode.com/YOUR-USERNAME
+🧩 **LeetCode:** [[https://leetcode.com/YOUR-USERNAME](https://leetcode.com/u/purnima_nallamilli/)]
 
 ---
 
